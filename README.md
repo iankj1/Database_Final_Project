@@ -47,12 +47,3 @@ Staff and admins can:
 ## 📂 Files in Repository
 - `game_center_schema.sql` → MySQL script with all `CREATE DATABASE`, `CREATE TABLE`, constraints, and relationships.  
 - `README.md` → Project documentation (this file).  
-
----
-
-## ⚡ Installation & Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/game-center-dbms.git
-   cd game-center-dbms
